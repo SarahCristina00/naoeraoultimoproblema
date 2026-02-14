@@ -1,5 +1,6 @@
 ---
 title: "In Memoriam"
+showContent : true
 
 ---
 
@@ -8,7 +9,7 @@ A vocês, meu amor e minha gratidão eternos.
 
 ---
 
-## Para meu pai
+## Para meu pai 👨🏾‍👧🏾❤️‍🩹
 *(Escrevo aqui quando o coração permitir)*
 
 ---

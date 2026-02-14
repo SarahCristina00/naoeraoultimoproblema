@@ -22,3 +22,8 @@ weight = 40
 name = 'Sobre'
 pageRef = '/sobre'
 weight = 50
+
+[[main]]
+name = 'In Memoriam'
+pageRef = '/in-memoriam'
+weight = 60

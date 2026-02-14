@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'http://localhost:1313/'
 languageCode = 'pt-BR'
 title = 'Não era o último problema (spoiler: eu resolvi)'
 theme = 'blowfish'
