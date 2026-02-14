@@ -1,0 +1,6 @@
+colorScheme = "avocado"
+defaultAppearance = "light"
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = true
