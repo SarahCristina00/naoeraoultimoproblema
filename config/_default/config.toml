@@ -1,0 +1,14 @@
+baseURL = ''
+languageCode = 'pt-BR'
+title = 'Não era o último problema (spoiler: eu resolvi)'
+theme = 'blowfish'
+
+
+
+colorScheme = 'lavender'
+defaultAppearance = 'light'
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = true
+
