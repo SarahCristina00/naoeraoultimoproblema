@@ -1,0 +1,24 @@
+[[main]]
+name = 'Estudos'
+pageRef = '/estudos'
+weight = 10
+
+[[main]]
+name = 'Projetos'
+pageRef = '/projetos'
+weight = 20
+
+[[main]]
+name = 'Aprendizados'
+pageRef = '/aprendizados'
+weight = 30
+
+[[main]]
+name = 'Pessoal'
+pageRef = '/pessoal'
+weight = 40
+
+[[main]]
+name = 'Sobre'
+pageRef = '/sobre'
+weight = 50
