@@ -1,6 +1,5 @@
 ---
 title: "Quem sou eu?"
-layout: "page"
 showContent: true
 ---
 
