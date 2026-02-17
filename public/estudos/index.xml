@@ -4,10 +4,8 @@
     <title>Estudos on Não era o último problema (spoiler: eu resolvi)</title>
     <link>http://localhost:1313/estudos/</link>
     <description>Recent content in Estudos on Não era o último problema (spoiler: eu resolvi)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
-    <copyright>© 2026 </copyright>
     <atom:link href="http://localhost:1313/estudos/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>
