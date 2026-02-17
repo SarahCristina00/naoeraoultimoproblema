@@ -1,0 +1,53 @@
+/*  Identidade geral do blog */
+:root {
+  --color-primary: #b49bdc; 
+  --color-secondary: #2f223e;
+  --color-accent: #9b7cc4;
+}
+
+
+body {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.75;
+}
+
+
+main {
+  max-width: 720px;
+  margin: auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Títulos */
+h1, h2, h3 {
+  color: var(--color-accent);
+  font-weight: 700;
+}
+
+/* Parágrafos */
+p {
+  margin-bottom: 1.2rem;
+  color: #333;
+}
+
+/* Links */
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Cartões */
+.card, article {
+  background: #b69fce;
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+/* Página In Memoriam */
+.prose {
+  font-size: 1.05rem;
+}
