@@ -19,11 +19,13 @@ pageRef = '/pessoal'
 weight = 40
 
 [[main]]
-name = 'In Memoriam'
-pageRef = '/in-memoriam'
-weight = 50
-
-[[main]]
 name = 'Sobre'
 pageRef = '/sobre'
+weight = 50
+
+
+[[main]]
+name = 'In Memoriam'
+pageRef = '/in-memoriam'
 weight = 60
+
